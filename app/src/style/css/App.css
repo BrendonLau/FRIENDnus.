@@ -1,0 +1,15 @@
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+.box {
+  width: 400px;
+  max-width: 500px;
+  justify-content: center;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 2%;
+}

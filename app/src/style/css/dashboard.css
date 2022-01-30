@@ -1,0 +1,23 @@
+.body {
+    width: 100%;
+    float: left;
+  }
+  
+  .leftpane {
+    width: 30%;
+    float: left;
+    height: 100px;
+    border-collapse: collapse;
+  }
+  .middlepane {
+    width: 40%;
+    float: left;
+    height: 100%;
+    border-collapse: collapse;
+  }
+  .rightpane {
+    width: 30%;
+    float: left;
+    height: 100px;
+    border-collapse: collapse;
+  }

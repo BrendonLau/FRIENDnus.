@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "./static/css/main.4560ffa8.chunk.css",
+    "main.js": "./static/js/main.7883235e.chunk.js",
+    "main.js.map": "./static/js/main.7883235e.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.47a6f1f9.js",
+    "runtime-main.js.map": "./static/js/runtime-main.47a6f1f9.js.map",
+    "static/css/2.eff365af.chunk.css": "./static/css/2.eff365af.chunk.css",
+    "static/js/2.a15c18c7.chunk.js": "./static/js/2.a15c18c7.chunk.js",
+    "static/js/2.a15c18c7.chunk.js.map": "./static/js/2.a15c18c7.chunk.js.map",
+    "static/js/3.137b8b04.chunk.js": "./static/js/3.137b8b04.chunk.js",
+    "static/js/3.137b8b04.chunk.js.map": "./static/js/3.137b8b04.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/2.eff365af.chunk.css.map": "./static/css/2.eff365af.chunk.css.map",
+    "static/css/main.4560ffa8.chunk.css.map": "./static/css/main.4560ffa8.chunk.css.map",
+    "static/js/2.a15c18c7.chunk.js.LICENSE.txt": "./static/js/2.a15c18c7.chunk.js.LICENSE.txt",
+    "static/media/iconfinder-256.e68cda01.png": "./static/media/iconfinder-256.e68cda01.png",
+    "static/media/iconfinder-512.02823358.png": "./static/media/iconfinder-512.02823358.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.47a6f1f9.js",
+    "static/css/2.eff365af.chunk.css",
+    "static/js/2.a15c18c7.chunk.js",
+    "static/css/main.4560ffa8.chunk.css",
+    "static/js/main.7883235e.chunk.js"
+  ]
+}
