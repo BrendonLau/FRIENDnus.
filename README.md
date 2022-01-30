@@ -26,7 +26,7 @@ In light of Covid-19, we want to build a strong support system in the community 
 ## Activity flow
 ![Appflow_resize](https://user-images.githubusercontent.com/66625773/127161342-9cb390c8-3543-4346-a1ae-0692e762e004.jpg)
 
-## Overview Diagram
+## ER Diagram
 <img width="493" alt="image5" src="https://user-images.githubusercontent.com/66625773/127160977-08a087a6-823b-4f7c-a314-6ee2dd081a47.png">
 
 ## Snippet of the home page
