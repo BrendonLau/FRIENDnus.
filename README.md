@@ -29,7 +29,7 @@ In light of Covid-19, we want to build a strong support system in the community 
 ## ER Diagram
 <img width="493" alt="image5" src="https://user-images.githubusercontent.com/66625773/127160977-08a087a6-823b-4f7c-a314-6ee2dd081a47.png">
 
-## Snippet of the home page
+## Home page
 ![Capture](https://user-images.githubusercontent.com/66625773/127161750-feccf3d3-bfdf-41dc-ae72-22a075fdf363.JPG)
 
 ## Match feature
