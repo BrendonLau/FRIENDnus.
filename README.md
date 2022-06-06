@@ -23,11 +23,6 @@ In light of Covid-19, we want to build a strong support system in the community 
     * Only able to add friends into groups to encourage interactions and prevent unexpected disruption from bots and strangers. 
 3. Chat functions for both group and personal chat.
 
-## Activity flow
-![Appflow_resize](https://user-images.githubusercontent.com/66625773/127161342-9cb390c8-3543-4346-a1ae-0692e762e004.jpg)
-
-## ER Diagram
-<img width="493" alt="image5" src="https://user-images.githubusercontent.com/66625773/127160977-08a087a6-823b-4f7c-a314-6ee2dd081a47.png">
 
 ## Home page
 ![Capture](https://user-images.githubusercontent.com/66625773/127161750-feccf3d3-bfdf-41dc-ae72-22a075fdf363.JPG)
